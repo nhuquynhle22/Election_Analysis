@@ -31,7 +31,8 @@ The analysis of the election show that:
     - Raymon Anthony Doane received 3.1% of the vote and 11,606 number of votes.
 - The winner of the election was:
     - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
-   ![Deliverable](https://user-images.githubusercontent.com/89143725/133911592-2a84f766-bdfd-46a5-a6d3-e1a9072aefb7.png)
+
+![Deliverable](https://user-images.githubusercontent.com/89143725/133911592-2a84f766-bdfd-46a5-a6d3-e1a9072aefb7.png)
 
 ## Summary
 After analysis of the data, this script can be used for their future elections to examine or anticipate certain reults. The code can be re-wrriten or added to find additional number sets, it all just depoends on what the reader wants to find. Future analysis could provide data regarding: 
