@@ -43,4 +43,4 @@ After analysis of the data, this script can be used for their future elections t
 Using modificatons to the variable code can help collect data from all different viewpoints to quickly and accurately get results.
 
 ## Challenge Summary
-The overall challenege was a bit tricky for a person who's never used Python. Going back and re-reading the module and practicing with lists really helped me get comfortable and used to writing out the code. 
+The overall challenege was a bit tricky for a person who's never used Python. Going back and re-reading the module and practicing with lists really helped me get comfortable and acquainted with writing out the code. 
